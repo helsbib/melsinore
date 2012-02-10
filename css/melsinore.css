@@ -1,0 +1,18 @@
+body {
+	
+}
+
+.header{
+	background-image: url(../images/kolding-topbg.png);
+}
+.page-header-search-header {
+	display: none;
+}
+h1, #ting-collection h1, .pane-title{
+	background: #D23B0F;
+	margin-top: 5px;
+	color:#333;
+}
+.block-ting_search {
+	margin-left:16%;
+}
