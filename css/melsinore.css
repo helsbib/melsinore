@@ -1,9 +1,6 @@
-body {
-	
-}
-
 .header{
-	background-image: url(../images/kolding-topbg.png);
+	background-image: url(../images/topbg.png);
+	min-height: 196px;
 }
 .page-header-search-header {
 	display: none;
