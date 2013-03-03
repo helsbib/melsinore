@@ -16,3 +16,9 @@ h1, #ting-collection h1, .pane-title {
 .block-ting_search {
 	margin-left:16%;
 }
+
+/** Hide the EU cookie compliance thing on the mobile site. **/
+/* This is not very specific, but the popup has no unique classes to hit :( */
+#sliding-popup > .info {
+  display: none;
+}
